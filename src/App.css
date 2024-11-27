@@ -1,0 +1,25 @@
+.App {
+  width: 100vw;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: url('bank12.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+input[type="file"] {
+  font-weight: 700; /* Set the font weight to a higher value for a bolder appearance */
+  margin: 10px; /* Adjust margin as needed */
+}
+
+button {
+  font-weight: bold;
+  margin: 10px; /* Adjust margin as needed */
+}
+
+img {
+  width: 300px;
+  margin: 10px;
+}
